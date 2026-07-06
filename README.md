@@ -69,7 +69,8 @@ This dashboard provides insights into:
 
 ### Dashboard Preview
 
-[Listings Growth] (Dashboard-Overview.png)
+[Listings Growth] 
+Link: https://drive.google.com/file/d/1Dyu6k1-MQuNEG5vdGn5hBf7huvap1ARz/view?usp=drive_link
 
 ---
 
@@ -85,9 +86,11 @@ This dashboard includes:
 
 ### Dashboard Preview
 
-[Market Share](Dashboard-MarketShare-Ratings.png 1)
+[Market Share]
+Link: https://drive.google.com/file/d/1LkOk5RsBzjJguZD_sKsBHucmDd1wdQQV/view?usp=drive_link
 
-[Market Share](Dashboard-MarketShare-Ratings.png 2)
+[Market Share]
+Link: https://drive.google.com/file/d/1XUHJJ90E_PnZUHmwc3JOMATpEQ6qwsWD/view?usp=drive_link
 
 ---
 
@@ -103,7 +106,8 @@ This dashboard provides:
 
 ### Dashboard Preview
 
-[Reviews Dashboard] (Dashboard-Review-Trust.png)
+[Reviews Dashboard] 
+Link: https://drive.google.com/file/d/1g8Eefq9dCrIcGMUIl_CS1ZXZvnavIVov/view?usp=drive_link
 
 ---
 
@@ -148,6 +152,7 @@ The folder includes:
 ### 📁 Dataset
 
 👉 [Download Dataset] Link: https://drive.google.com/drive/folders/1-L5bTZAnLjBdVtH4yR-nesZBhoSTaBsv?usp=sharing
+
 ---
 
 # 🚀 Skills Demonstrated
