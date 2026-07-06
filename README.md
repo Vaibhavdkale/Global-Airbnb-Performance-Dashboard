@@ -69,7 +69,7 @@ This dashboard provides insights into:
 
 ### Dashboard Preview
 
-![Listings Growth](Dashboard-Overview.png)
+![Listings Growth] (Dashboard-Overview.png)
 
 ---
 
