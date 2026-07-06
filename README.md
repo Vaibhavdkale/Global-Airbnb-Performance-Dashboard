@@ -69,7 +69,7 @@ This dashboard provides insights into:
 
 ### Dashboard Preview
 
-![Listings Growth] (Dashboard-Overview.png)
+[Listings Growth] (Dashboard-Overview.png)
 
 ---
 
@@ -85,9 +85,9 @@ This dashboard includes:
 
 ### Dashboard Preview
 
-![Market Share](Dashboard-MarketShare-Ratings.png 1)
+[Market Share](Dashboard-MarketShare-Ratings.png 1)
 
-![Market Share](Dashboard-MarketShare-Ratings.png 2)
+[Market Share](Dashboard-MarketShare-Ratings.png 2)
 
 ---
 
@@ -103,7 +103,7 @@ This dashboard provides:
 
 ### Dashboard Preview
 
-![Reviews Dashboard](Dashboard-Review-Trust.png)
+[Reviews Dashboard] (Dashboard-Review-Trust.png)
 
 ---
 
