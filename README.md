@@ -143,7 +143,12 @@ The folder includes:
 
 ### 📥 Download Complete Project
 
-**👉 Paste your Google Drive Folder Link Here**
+👉 Global Airbnb Performance Dashboard Video: https://drive.google.com/file/d/137UE1Try5bIF5ge-oL3Po-RyiKQI39rH/view?usp=sharing
+
+## 📂 Power BI Dashboard
+
+> ⚠️ Google Drive cannot preview large `.pbix` files.
+> Click the button below to download and open the dashboard in Microsoft Power BI Desktop.
 
 👉 [Download Global Airbnb Dashboard (.pbix)]
     Link: https://drive.google.com/file/d/1J3eYAa13avBo2pT6CRyPaVSndpStZZEK/view?usp=sharing
